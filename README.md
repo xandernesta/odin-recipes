@@ -1,12 +1,14 @@
 # odin-recipes
 
-Practice project to demostrate skills learned so far
+<h3>Practice project to demostrate skills learned so far</h3>
 
-Some things learned:
--Git basics
--index.html pages
--elements and tags
--html boilerplate
--lists
--links and images
--good commit messages
+  <h4>Some things learned:</h4>
+<ul>
+  <li>Git basics</li>
+  <li>index.html pages</li>
+  <li>elements and tags</li>
+  <li>html boilerplate</li>
+  <li>lists</li>
+  <li>links and images</li>
+  <li>good commit messages</li>
+</ul>
